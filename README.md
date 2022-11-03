@@ -1,4 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kannan S================================================================================================================================Full Stack Web Developer------------------------I have started to become very versed in things like architecture designs and communication. I realized, that what differences successful projects from failed projects is those things exactly. Building proper base foundation/architecture for an application for the team to build off is extremely important. It decreases the maintenance time and as well as the time to build new features, while also making the team happier.* 🌍  I'm based in India* ✉️  You can contact me at [kannan-inbox@outlook.com](mailto:kannan-inbox@outlook.com)* 🚀  I'm currently working on [Kannan S](http://kannans.info/)* 🧠  I'm learning Microservice and Microfrontend* 🤝  I'm open to collaborating on Full Stack Web Developement
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kannan S
+================================================================================================================================
+
+Full Stack Web Developer
+------------------------
+
+I have started to become very versed in things like architecture designs and communication. I realized, that what differences successful projects from failed projects is those things exactly. Building proper base foundation/architecture for an application for the team to build off is extremely important. It decreases the maintenance time and as well as the time to build new features, while also making the team happier.* 🌍  I'm based in India* ✉️  You can contact me at [kannan-inbox@outlook.com](mailto:kannan-inbox@outlook.com)* 🚀  I'm currently working on [Kannan S](http://kannans.info/)* 🧠  I'm learning Microservice and Microfrontend* 🤝  I'm open to collaborating on Full Stack Web Developement
 
 <a href="https://www.twitter.com/KannansMca" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/KannansMca?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
